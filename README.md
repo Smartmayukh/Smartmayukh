@@ -43,4 +43,4 @@
 
 
 <h2>:book: Guestbook</h2>
-<p>Leave a message for me ☕<a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a>!</p>
