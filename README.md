@@ -26,8 +26,8 @@
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartmayukh&layout=compact) --->
 
 <p float="center">
-  <img alig src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true"  width="420"/>  
-  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="420" />
+  <img alig src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true"  width="410"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="410" />
 </p>
 
 ![gif](https://github.com/Smartmayukh/Smartmayukh/blob/c49a514b9d87fcb95aa8b0a6fd019a1710b67d62/github-contribution-grid-snake.svg)
