@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning FPGA and Deep Learning
 - 📫 How to reach me: ... You can contact me on Linkedin https://www.linkedin.com/in/mayukhmali-das-7237a1196
 
-<h2>🏆 Github Profile Trophy and Stats</h2>
+<h2>🏆 Github Profile Trophies and Stats</h2>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=8&rank=SSS,SS,S,AAA,AA,A,SECRET&theme=gruvbox&no-frame=true" />
