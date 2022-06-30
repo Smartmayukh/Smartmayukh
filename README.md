@@ -30,8 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="420" />
 </p>
 
-
-![gif](https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg)
+![gif](https://github.com/Smartmayukh/Smartmayukh/blob/c49a514b9d87fcb95aa8b0a6fd019a1710b67d62/github-contribution-grid-snake.svg)
 
 
 
