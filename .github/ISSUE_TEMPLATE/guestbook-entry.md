@@ -1,8 +1,7 @@
 ---
 name: "Guestbook entry"
 about: "Leave a  message"
-title: "<your_username> was here!"
-title: "<your_username>!"
+title: "<your_username>"
 labels: guest
 assignees: ''
 
