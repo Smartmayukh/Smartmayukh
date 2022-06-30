@@ -8,7 +8,7 @@
 - 🔌 I am studying Electronics and Telecommunication Engineering at Jadavpur University
 - 📶 I am currently working on Wireless Communication, VLSI, Deep Learning and Optimization
 - 💻 I am currently learning HDL, FPGA, Cadence and Ansys
-- 📫 How to reach me: ... You can contact me on Linkedin https://www.linkedin.com/in/mayukhmali-das-7237a1196
+- 📫 I currently have four published research papers
     
    
 <a href="https://www.linkedin.com/in/mayukhmali-das-7237a1196"><img align="left" alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
