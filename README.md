@@ -12,7 +12,7 @@
 - 📫 How to reach me: ... You can contact me on Linkedin https://www.linkedin.com/in/mayukhmali-das-7237a1196
 
 
-<a href=" https://www.linkedin.com/in/mayukhmali-das-7237a1196">
+<a href=" https://www.linkedin.com/in/mayukhmali-das-7237a1196/">
   <img align="left" alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
