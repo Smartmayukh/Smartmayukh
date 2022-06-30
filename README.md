@@ -1,4 +1,9 @@
-### Hi there 👋 I am Mayukhmali Das 
+# Hi there 👋 I am Mayukhmali Das 
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=8000&lines=Electronics%2C+Aritficial+Intelligence)](https://git.io/typing-svg)
 
 - 🌱 I’m currently studying Electronics and Telecommunication Engineering @ Jadavpur University
 - 🔭 I’m currently working on Electronics and Deep Learning
