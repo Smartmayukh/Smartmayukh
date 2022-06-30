@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=8000&lines=Electronics%2C+Aritficial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Aritficial+Intelligence)](https://git.io/typing-svg)
 
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
 
