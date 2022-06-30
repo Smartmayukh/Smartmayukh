@@ -16,6 +16,7 @@
 
 <a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
 
+<a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
 
 
 
