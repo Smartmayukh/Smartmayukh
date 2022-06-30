@@ -32,7 +32,7 @@
 
 
 
-![gif](https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.gif&theme=gotham)
+![gif](https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.gif)
 
 
 
