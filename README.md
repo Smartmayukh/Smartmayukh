@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Mayukhmali Das</a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
 
-
+ 
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Aritficial+Intelligence)](https://git.io/typing-svg)
 
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
@@ -18,7 +19,7 @@
 
 <a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
 </br>
 <h2>🏆 Github Profile Trophies and Stats</h2>
@@ -44,3 +45,4 @@
 
 <h2>:book: Guestbook</h2>
 <p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a>!</p>
+
