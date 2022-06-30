@@ -12,16 +12,16 @@
 
 <h2>🏆 Github Profile Trophies and Stats</h2>
 
-<p align="center">
+<p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=8&rank=SSS,SS,S,AAA,AA,A,SECRET&theme=gruvbox&no-frame=true" />
 </p>
 
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartmayukh&layout=compact) --->
 
-<p float="left">
-  <img alig src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali" />
+<p float="center">
+  <img alig src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true"  width="400"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="400" />
 </p>
 
 
