@@ -30,7 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="420" />
 </p>
 
-### My Github contributions getting eaten by a 🐍:
-![snake gif](https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
+<h2>My Github contributions getting eaten by a 🐍:</h2>
+<p align="left">
+  <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+</p>
 
