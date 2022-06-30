@@ -18,8 +18,6 @@
 
 <a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
 
-<a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&l=en"><img align="left" alt="Mayukhmali's RG" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
-
 
 
 
