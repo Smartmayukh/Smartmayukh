@@ -7,3 +7,12 @@
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Smartmayukh&column=9&theme=gruvbox&no-frame=true"/>
+
+![Mayukhmali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartmayukh&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true)
+
+
