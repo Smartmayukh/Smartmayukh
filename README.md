@@ -11,8 +11,33 @@
 - 💻 I am currently learning HDL, FPGA, Cadence and Ansys
 - 📫 How to reach me: ... You can contact me on Linkedin https://www.linkedin.com/in/mayukhmali-das-7237a1196
    
+   
+   
+
+   
+   
 
 <a href="https://www.linkedin.com/in/mayukhmali-das-7237a1196"><img align="left" alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+
+
+<a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </br>
@@ -34,4 +59,3 @@
 <p align="left">
   <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </p>
-
