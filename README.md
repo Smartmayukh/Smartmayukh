@@ -38,7 +38,7 @@
 
 <h2>My Github contributions getting eaten by a 🐍:</h2>
 <p align="left">
-  <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
