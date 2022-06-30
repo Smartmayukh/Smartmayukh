@@ -6,11 +6,16 @@
 
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
 
-- 🌱 I’m currently studying Electronics and Telecommunication Engineering @ Jadavpur University
-- 🔭 I’m currently working on Electronics and Deep Learning
-- 🌱 I’m currently learning FPGA and Deep Learning
+- 🔌 I am studying Electronics and Telecommunication Engineering at Jadavpur University
+- 📶 I am currently working on Wireless Communication, VLSI, Deep Learning and Optimization
+- 💻 I am currently learning HDL, FPGA, Cadence 
 - 📫 How to reach me: ... You can contact me on Linkedin https://www.linkedin.com/in/mayukhmali-das-7237a1196
 
+
+<a href=" https://www.linkedin.com/in/mayukhmali-das-7237a1196">
+  <img align="left" alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</br>
 <h2>🏆 Github Profile Trophies and Stats</h2>
 
 <p align="left">
