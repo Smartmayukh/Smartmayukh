@@ -31,8 +31,7 @@
 </p>
 
 
-
-![gif](https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.gif)
+![gif](https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg)
 
 
 
