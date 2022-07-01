@@ -47,8 +47,9 @@
 <p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a>!</p>
 
 <p align="left">
-  <img alig src="https://user-images.githubusercontent.com/64318469/176818356-f176f3b7-7aeb-4882-9489-4083b5ed5413.gif"  width="200"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/176818514-e0dae354-7fac-4585-93c6-50fbae91fc38.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/64318469/176824387-e836927b-fe30-4523-90b0-d1bc0c0d7daa.gif" width="200" />
-    <img src="https://user-images.githubusercontent.com/64318469/176818514-e0dae354-7fac-4585-93c6-50fbae91fc38.gif" width="200" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/176818356-f176f3b7-7aeb-4882-9489-4083b5ed5413.gif"  width="205"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/176818514-e0dae354-7fac-4585-93c6-50fbae91fc38.gif" width="205" />
+  <img src="https://user-images.githubusercontent.com/64318469/176824387-e836927b-fe30-4523-90b0-d1bc0c0d7daa.gif" width="205" />
+    <img src="https://user-images.githubusercontent.com/64318469/176825486-1982d256-d525-45fa-aeea-66d4cb7a7bc8.gif" width="205" />
 </p>
+
