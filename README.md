@@ -33,8 +33,8 @@
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartmayukh&layout=compact) --->
 
 <p float="center">
-  <img alig src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true"  width="410"/>  
-  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="410" />
+  <img alig src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true"  width="414"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="414" />
 </p>
 
 <h2>My Github contributions getting eaten by a 🐍:</h2>
@@ -48,8 +48,8 @@
 
 
 <p float="center">
-  <img alig src="https://user-images.githubusercontent.com/64318469/176818356-f176f3b7-7aeb-4882-9489-4083b5ed5413.gif"  width="410"/>  
-  <img src="https://user-images.githubusercontent.com/64318469/176818514-e0dae354-7fac-4585-93c6-50fbae91fc38.gif" width="410" />
+  <img alig src="https://user-images.githubusercontent.com/64318469/176818356-f176f3b7-7aeb-4882-9489-4083b5ed5413.gif"  width="414"/>  
+  <img src="https://user-images.githubusercontent.com/64318469/176818514-e0dae354-7fac-4585-93c6-50fbae91fc38.gif" width="414" />
 </p>
 
 
