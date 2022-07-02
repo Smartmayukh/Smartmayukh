@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Mayukhmali Das</a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
 
  
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Artificial+Intelligence)](https://git.io/typing-svg)
 
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
@@ -17,7 +16,9 @@
 
 <a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
 
-<a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
+<a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img align="left" alt="Mayukhmali's RG" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
+
+<a href="https://twitter.com/DasMayukhmali"><img align="left" alt="Mayukhmali's Twitter" width="22px" src="https://user-images.githubusercontent.com/64318469/176983139-6a33557b-4049-48f5-b3e5-f8f53a720057.png" /></a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
