@@ -41,11 +41,14 @@
 
 
 
-<h2>🏆 Rank 1 in HDLbits Verilog Competitive Coding</h2>
+<!---<h2>🏆 Rank 1 in HDLbits Verilog Competitive Coding</h2>
 
 <p align="left">
   <img alig src="https://user-images.githubusercontent.com/64318469/177551603-ebc6379e-0b67-4c6a-bcd7-5dbcd05febd1.gif" />
-</p>
+</p>--->
+
+
+
 <h2>My Github contributions getting eaten by a 🐍</h2>
 <p align="left">
   <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg" />
