@@ -20,6 +20,10 @@
 
 <a href="https://twitter.com/DasMayukhmali"><img align="left" alt="Mayukhmali's Twitter" width="22px" src="https://user-images.githubusercontent.com/64318469/176983139-6a33557b-4049-48f5-b3e5-f8f53a720057.png" /></a>
 
+<a href="https://www.reddit.com/user/Advanced_Ship_8308"><img align="left" alt="Mayukhmali's reddit" width="22px" src="https://user-images.githubusercontent.com/64318469/178093999-ebcb5c55-9350-4c78-8111-e9deb414fedb.png" /></a>
+
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
 </br>
