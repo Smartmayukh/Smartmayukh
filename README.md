@@ -30,7 +30,7 @@
 <h2>🏆 Github Profile Trophies and Stats</h2>
 
 <p align="left">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=8&rank=SSS,SS,S,AAA,AA,A,SECRET&theme=gruvbox&no-frame=true" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=8&rank=SSS,SS,S,AAA,AA,A,SECRET&theme=gruvbox&no-frame=true" width="820"/>
 </p>
 
 
