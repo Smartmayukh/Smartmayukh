@@ -61,7 +61,7 @@
 
 
 <h2>:book: Guestbook</h2>
-<p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a> or if you want to pass time you can play  <a href="https://github.com/Smartmayukh/chess/blob/master/README.md">chess</a> ♟</p>
+<p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a> or if you can participate in my free for all ♟<a href="https://github.com/Smartmayukh/chess/blob/master/README.md">chess</a>  tournament 🏆</p>
 
 <br/>
 <br/>
