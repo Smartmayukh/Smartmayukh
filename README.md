@@ -47,8 +47,8 @@
 
 <h2>🥇 Rank 1 in HDLbits Verilog </h2>
 
-<p align="left">
-  <img alig src="https://user-images.githubusercontent.com/64318469/177551603-ebc6379e-0b67-4c6a-bcd7-5dbcd05febd1.gif" width="820" />
+<p align="center">
+  <img alig src="https://user-images.githubusercontent.com/64318469/177551603-ebc6379e-0b67-4c6a-bcd7-5dbcd05febd1.gif" width="620" />
 </p>
 
 
@@ -63,6 +63,10 @@
 <h2>:book: Guestbook</h2>
 <p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a> or if you want to pass time you can play  <a href="https://github.com/Smartmayukh/chess/blob/master/README.md">chess</a> ♟</p>
 
+<br/>
+<br/>
+
+<h2>💡📞Some retro images of Electronics and Telecomm</h2>
 
 <p align="left">
   <img alig src="https://user-images.githubusercontent.com/64318469/176818356-f176f3b7-7aeb-4882-9489-4083b5ed5413.gif"  width="204"/>  
