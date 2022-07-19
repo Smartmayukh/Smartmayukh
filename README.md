@@ -22,7 +22,7 @@
 
 <a href="https://www.reddit.com/user/Advanced_Ship_8308"><img align="left" alt="Mayukhmali's reddit" width="22px" src="https://user-images.githubusercontent.com/64318469/178093999-ebcb5c55-9350-4c78-8111-e9deb414fedb.png" /></a>
 
-
+<a href="https://smartmayukh.github.io/Personal-site/"><img align="left" alt="Mayukhmali's website" width="22px" src="https://user-images.githubusercontent.com/64318469/179639086-94ce6361-d833-4283-9839-96bdb13123d9.png" /></a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
