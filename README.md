@@ -45,12 +45,12 @@
 
 
 
-<h2>🥇 Rank 1 in HDLbits Verilog </h2>
+<!---<h2>🥇 Rank 1 in HDLbits Verilog </h2>
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/177551603-ebc6379e-0b67-4c6a-bcd7-5dbcd05febd1.gif" width="620" />
 </p>
-
+--->
 
 <h2>My Github contributions getting eaten by a 🐍</h2>
 <p align="left">
