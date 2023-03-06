@@ -60,15 +60,12 @@
 <p align="left">
   <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-
-
 <!---
 <h2>:book: Guestbook</h2>
 <p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a> or you can participate in my free for all ♟<a href="https://github.com/Smartmayukh/chess/blob/master/README.md">chess</a>  tournament 🏆</p>
---->
 <br/>
 <br/>
+-->
 <!---
 <h2>💡📞Some retro images of Electronics and Telecomm</h2>
 
