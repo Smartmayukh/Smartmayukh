@@ -3,15 +3,15 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Artificial+Intelligence)](https://git.io/typing-svg)
 
-
+<!---
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
-
+--->
 
 - 🔌 I am studying Electronics and Telecommunication Engineering at Jadavpur University
 - 📶 I am currently working on Wireless Communication, SOC designing, Deep Learning and Optimization
     
  
-   
+ <!---
 <a href="https://www.linkedin.com/in/mayukhmali-das-7237a1196"><img align="left" alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 
@@ -27,7 +27,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
-
+--->
 
 </br>
 <h2>🏆 Github Profile Trophies and Stats</h2>
@@ -47,13 +47,13 @@
 
 
 
-
+<!---
 <h2>🥇 Rank 1 in HDLbits Verilog </h2>
 
 <p align="center">
   <img alig src="https://user-images.githubusercontent.com/64318469/177551603-ebc6379e-0b67-4c6a-bcd7-5dbcd05febd1.gif" width="620" />
 </p>
-
+--->
 
 
 <h2>My Github contributions getting eaten by a 🐍</h2>
@@ -61,7 +61,7 @@
   <img alig src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-
+<!---
 ## Some pictures of Exhibitions and Techfests I have attended
 
 ### DRDO Chandipur Exhibition 2023
@@ -113,7 +113,7 @@
 
 
 
-
+--->
 
 
 
