@@ -65,8 +65,6 @@
 <p>Leave a message 📧 for me  <a href="https://github.com/Smartmayukh/Smartmayukh/issues/new?template=guestbook-entry.md">here</a> or you can participate in my free for all ♟<a href="https://github.com/Smartmayukh/chess/blob/master/README.md">chess</a>  tournament 🏆</p>
 <br/>
 <br/>
--->
-<!---
 <h2>💡📞Some retro images of Electronics and Telecomm</h2>
 
 <p align="left">
@@ -77,6 +75,7 @@
 </p>
 
 --->
+
 
 
 
