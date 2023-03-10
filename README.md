@@ -8,7 +8,7 @@
 --->
 
 - 🔌 I am studying Electronics and Telecommunication Engineering at Jadavpur University
-- 📶 I am currently working on Wireless Communication, Deep Learning and Optimization
+- 📶 I am currently working on Wireless Communication, SOC designing, Deep Learning and Optimization
     
  <!---
    
