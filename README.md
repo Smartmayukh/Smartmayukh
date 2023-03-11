@@ -11,7 +11,13 @@
 - 📶 I am currently working on Wireless Communication, SOC designing, Deep Learning and Optimization
     
  
+
+
 <a href="https://www.linkedin.com/in/mayukhmali-das-7237a1196"><img align="left" alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+
+<a href="https://smartmayukh.github.io/Personal-site/"><img align="left" alt="Mayukhmali's website" width="22px" src="https://user-images.githubusercontent.com/64318469/179639086-94ce6361-d833-4283-9839-96bdb13123d9.png" /></a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
  <!---
 <a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
@@ -25,13 +31,11 @@
 
 --->
 
-<a href="https://smartmayukh.github.io/Personal-site/"><img align="left" alt="Mayukhmali's website" width="22px" src="https://user-images.githubusercontent.com/64318469/179639086-94ce6361-d833-4283-9839-96bdb13123d9.png" /></a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
 
 
-</br>
+
+
 <h2>🏆 Github Profile Trophies and Stats</h2>
 
 <p align="left">
