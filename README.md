@@ -10,7 +10,7 @@
 - 🔌 I am studying Electronics and Telecommunication Engineering at Jadavpur University
 - 📶 I am currently working on Wireless Communication, SOC designing, Deep Learning and Optimization
     
- 
+
 
 
 
@@ -34,10 +34,11 @@
 </br>
 
 <h2>🏆 Github Profile Trophies and Stats</h2>
-
+<!---
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=8&rank=SSS,SS,S,AAA,AA,A,SECRET&theme=gruvbox&no-frame=true" width="820"/>
 </p>
+--->
 
 
 
