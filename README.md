@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Mayukhmali Das</a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
 
- 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Artificial+Intelligence)](https://git.io/typing-svg)
+
+
+<a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/226802577-33f7a099-bda8-4ab0-aeed-673a8d0ed534.gif" width="150 " height="200" /></a>
 
 <!---
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
