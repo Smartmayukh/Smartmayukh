@@ -6,14 +6,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Electronics%2C+Artificial+Intelligence)](https://git.io/typing-svg)
 
 
-<a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/226802974-e754c50c-ec3d-432a-a348-478875e8f48e.gif" width="120 " height="200" /></a>
+<a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/226802974-e754c50c-ec3d-432a-a348-478875e8f48e.gif" width="150 " height="150" /></a>
 
 <!---
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
 --->
 
 - 🔌 I am studying Electronics and Telecommunication Engineering at Jadavpur University
-- 📶 I am currently working on Wireless Communication, SOC designing, Deep Learning and Optimization
+- 📶 I am currently working on Wireless Communication, SOC designing and Deep Learning.
     
 
 
