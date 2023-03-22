@@ -11,9 +11,12 @@
 <a href="#"><img align="right" src="https://user-images.githubusercontent.com/64318469/176737409-3d90e163-49b9-4e8f-8182-2b3f2446a91a.gif" width="200 " height="200" /></a>
 --->
 
+<p float="center">
 - 🔌 I am studying Electronics and Telecommunication Engineering at Jadavpur University
+</br>
 - 📶 I am currently working on Wireless Communication, SOC designing and Deep Learning.
-    
+</p>
+
 
 
 
