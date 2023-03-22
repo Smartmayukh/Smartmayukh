@@ -13,23 +13,20 @@
  
 
 
- <!---
+
 <a href="https://www.linkedin.com/in/mayukhmali-das-7237a1196"><img align="left" alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 <a href="https://smartmayukh.github.io/Personal-site/"><img align="left" alt="Mayukhmali's website" width="22px" src="https://user-images.githubusercontent.com/64318469/179639086-94ce6361-d833-4283-9839-96bdb13123d9.png" /></a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
+
 
 <a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img align="left" alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
 
 <a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img align="left" alt="Mayukhmali's RG" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
 
-<a href="https://twitter.com/DasMayukhmali"><img align="left" alt="Mayukhmali's Twitter" width="22px" src="https://user-images.githubusercontent.com/64318469/176983139-6a33557b-4049-48f5-b3e5-f8f53a720057.png" /></a>
 
 
-<a href="https://www.reddit.com/user/Advanced_Ship_8308"><img align="left" alt="Mayukhmali's reddit" width="22px" src="https://user-images.githubusercontent.com/64318469/178093999-ebcb5c55-9350-4c78-8111-e9deb414fedb.png" /></a>
-
---->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
 
 
 
