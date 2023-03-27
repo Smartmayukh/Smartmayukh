@@ -31,10 +31,10 @@
 
 <a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img align="left" alt="Mayukhmali's RG" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
 
-
+<!---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Smartmayukh)
-
+--->
 
 
 
