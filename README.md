@@ -1,23 +1,29 @@
-<h1 align="center">Hi there, I'm Mayukhmali Das <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
+# Mayukhmali Das - Generative AI Data Scientist
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayukhmali-das-7237a1196"><img alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  <a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
-  <a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img alt="Mayukhmali's RG" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
-</p>
+👋 Hello there! I'm Mayukhmali Das, a passionate data scientist specializing in Generative AI, currently working at IDFC FIRST Bank. I also served as a Data Science Intern at CMU and Jadavpur University. I am enthusiastic about leveraging cutting-edge technologies to solve real-world problems and drive innovation.
 
-<h2 align="center">🏆 Github Profile Trophies and Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true"  width="45%" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali" width="45%" />
-</p>
+## About Me
 
-<h2 align="center">🥇 Rank 1 in HDLbits Verilog</h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64318469/177551603-ebc6379e-0b67-4c6a-bcd7-5dbcd05febd1.gif" width="70%" />
-</p>
+- 🔭 I’m currently working on leveraging GEN AI technologies at IDFC FIRST Bank.
+- 🌱 I’m constantly learning and exploring new advancements in the field of AI and machine learning.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mayukhmali-das/)
 
-<h2 align="center">My Github contributions getting eaten by a 🐍</h2>
-<p align="center">
-  <img src="https://github.com/Smartmayukh/Smartmayukh/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## Experience
+
+### IDFC FIRST Bank
+- **Associate Data Analyst - Generative AI**
+  - *Feb 2024 - Present*
+  - Actively engaged in leveraging cutting-edge tools such as OpenAI Whisper, AWS Transcribe, Azure Transcription Services, GPT 3.5, GPT 4, Mistral, and other state-of-the-art GEN AI technologies.
+
+- **Associate Data Analyst - Education Loan & Hyperpersonalization (HPE)**
+  - *Jul 2023 - Jan 2024 *
+  - Developed core deep learning and machine learning models for the Education Loan division. Possess a thorough understanding of business requirements, ensuring alignment of models with organizational objectives.
+
+
+## Get in Touch
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayukhmali-das/)](https://www.linkedin.com/in/mayukhmali-das/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/mayukhmali-das)](https://github.com/mayukhmali-das)
+
