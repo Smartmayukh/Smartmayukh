@@ -21,7 +21,9 @@ Greetings, I am Mayukhmali Das, a dedicated data scientist with a profound focus
 
 
 = **Research Journey Summary**
-Engaged in AI research from 2020-2023, exploring diverse domains: Monocular Depth Estimation, Multilingual Sentiment Analysis, Spiking Neural Networks, Event-based Vision, and Graph Neural Networks. Published papers on depth estimation, event-based data clustering, and sensor data recovery. Explored BCI applications in communication systems, culminating in projects on efficient Electromagnet placement for trans-cranial surgery. Demonstrated adaptability across computer vision, NLP, and neuromorphic architectures under the guidance of Professor Amit Konar. Committed to advancing AI's interdisciplinary applications with a focus on innovation and optimization.
+  - Engaged in AI research from 2020-2023, exploring diverse domains: Monocular Depth Estimation, Multilingual Sentiment Analysis, Spiking Neural Networks, Event-based Vision, and Graph Neural Networks.
+  - Published papers on depth estimation, event-based data clustering, and sensor data recovery. Explored BCI applications in communication systems, culminating in projects on efficient Electromagnet placement for trans-cranial surgery.
+  - Demonstrated adaptability across computer vision, NLP, and neuromorphic architectures under the guidance of Professor Amit Konar. Committed to advancing AI's interdisciplinary applications with a focus on innovation and optimization.
 
 ## Get in Touch
 
@@ -29,6 +31,5 @@ Feel free to connect with me for inquiries, suggestions, or to establish profess
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayukhmali-das/)](https://www.linkedin.com/in/mayukhmali-das-7237a1196/)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en)](https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-blue?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/YOUR_PROFILE_ID)](https://www.researchgate.net/profile/YOUR_PROFILE_ID)
 
 <img src="https://media.giphy.com/media/cy9YmehyBO2TJ7tX81/giphy.gif" width="300"> <img src="https://media.giphy.com/media/qdpdeAEbIJhhtqUk7k/giphy.gif" width="300">
