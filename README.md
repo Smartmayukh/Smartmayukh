@@ -29,6 +29,4 @@ Feel free to connect with me for inquiries, suggestions, or to establish profess
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=YOUR_ID_HERE)](https://scholar.google.com/citations?user=YOUR_ID_HERE)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-blue?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/YOUR_PROFILE_ID)](https://www.researchgate.net/profile/YOUR_PROFILE_ID)
 
-![Openheimer](https://media.giphy.com/media/cy9YmehyBO2TJ7tX81/giphy.gif){ width=50% }
-
-![Oppenheimer](https://media.giphy.com/media/qdpdeAEbIJhhtqUk7k/giphy.gif){ width=50% }
+<img src="https://media.giphy.com/media/cy9YmehyBO2TJ7tX81/giphy.gif" width="300"> <img src="https://media.giphy.com/media/qdpdeAEbIJhhtqUk7k/giphy.gif" width="300">
