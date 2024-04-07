@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayukhmali-das-7237a1196"><img alt="Mayukhmali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  <a href="https://smartmayukh.github.io/Personal-site/"><img alt="Mayukhmali's website" width="22px" src="https://user-images.githubusercontent.com/64318469/179639086-94ce63...g" /></a>
   <a href="https://scholar.google.com/citations?user=jUzToa8AAAAJ&hl=en"><img alt="Mayukhmali's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/64318469/176760872-1ca57881-4131-47fa-b518-f4c963dde115.png" /></a>
   <a href="https://www.researchgate.net/profile/Mayukhmali-Das"><img alt="Mayukhmali's RG" width="22px" src="https://user-images.githubusercontent.com/64318469/176761750-2e282a7e-2c90-497c-ab6a-ec9a337e86b5.png" /></a>
 </p>
