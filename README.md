@@ -29,6 +29,6 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=YOUR_ID_HERE)](https://scholar.google.com/citations?user=YOUR_ID_HERE)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-blue?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/YOUR_PROFILE_ID)](https://www.researchgate.net/profile/YOUR_PROFILE_ID)
 
-![Openheimer](https://media.giphy.com/media/qdpdeAEbIJhhtqUk7k/giphy.gif)
+![Openheimer](https://media.giphy.com/media/cy9YmehyBO2TJ7tX81/giphy.gif)
 
 ![Oppenheimer](https://media.giphy.com/media/qdpdeAEbIJhhtqUk7k/giphy.gif)
