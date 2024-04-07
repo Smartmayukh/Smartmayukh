@@ -6,7 +6,7 @@ Greetings, I am Mayukhmali Das, a dedicated data scientist with a profound focus
 
 - Currently, I am immersed in the realm of GEN AI technologies at IDFC FIRST Bank, exploring the realms of OpenAI Whisper, AWS Transcribe, Azure Transcription Services, GPT 3.5, GPT 4, Mistral, and other avant-garde tools.
 - My learning journey is perpetual, continually delving into the latest advancements in AI and machine learning.
-- Reach out to me: [LinkedIn](https://www.linkedin.com/in/mayukhmali-das/)
+- Reach out to me: [LinkedIn](https://www.linkedin.com/in/mayukhmali-das-7237a1196/)
 
 ## Experience
 
@@ -17,7 +17,7 @@ Greetings, I am Mayukhmali Das, a dedicated data scientist with a profound focus
 
 - **Associate Data Analyst - Education Loan & Hyperpersonalization (HPE)**
   - *Jul 2023 - Jan 2024*
-  - Developed core deep learning and machine learning models for the Education Loan division. Ensured alignment of models with organizational objectives by deeply understanding business requirements.
+  - Developed core deep learning and machine learning models for the Education Loan division. Ensured alignment of all DL ML models with organizational objectives by deeply understanding business requirements.
 
 
 ### Research Journey Summary
