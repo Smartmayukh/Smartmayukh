@@ -25,5 +25,8 @@
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayukhmali-das/)](https://www.linkedin.com/in/mayukhmali-das/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/mayukhmali-das)](https://github.com/mayukhmali-das)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/mayukhmali-das)](https://github.com/mayukhmali-das/)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=YOUR_ID_HERE)](https://scholar.google.com/citations?user=YOUR_ID_HERE)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-blue?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/YOUR_PROFILE_ID)](https://www.researchgate.net/profile/YOUR_PROFILE_ID)
 
+![Openheimer](https://media.giphy.com/media/l4JyOCNEsULMlYgWS/giphy.gif)
