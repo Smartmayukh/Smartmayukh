@@ -20,7 +20,7 @@ Greetings, I am Mayukhmali Das, a dedicated data scientist with a profound focus
   - Developed core deep learning and machine learning models for the Education Loan division. Ensured alignment of models with organizational objectives by deeply understanding business requirements.
 
 
-= **Research Journey Summary**
+### Research Journey Summary
   - Engaged in AI research from 2020-2023, exploring diverse domains: Monocular Depth Estimation, Multilingual Sentiment Analysis, Spiking Neural Networks, Event-based Vision, and Graph Neural Networks.
   - Published papers on depth estimation, event-based data clustering, and sensor data recovery. Explored BCI applications in communication systems, culminating in projects on efficient Electromagnet placement for trans-cranial surgery.
   - Demonstrated adaptability across computer vision, NLP, and neuromorphic architectures under the guidance of Professor Amit Konar. Committed to advancing AI's interdisciplinary applications with a focus on innovation and optimization.
