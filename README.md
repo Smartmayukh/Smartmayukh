@@ -16,7 +16,7 @@
   - Actively engaged in leveraging cutting-edge tools such as OpenAI Whisper, AWS Transcribe, Azure Transcription Services, GPT 3.5, GPT 4, Mistral, and other state-of-the-art GEN AI technologies.
 
 - **Associate Data Analyst - Education Loan & Hyperpersonalization (HPE)**
-  - *Jul 2023 - Jan 2024 *
+  - *Jul 2023 - Jan 2024*
   - Developed core deep learning and machine learning models for the Education Loan division. Possess a thorough understanding of business requirements, ensuring alignment of models with organizational objectives.
 
 
