@@ -30,3 +30,5 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-blue?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/YOUR_PROFILE_ID)](https://www.researchgate.net/profile/YOUR_PROFILE_ID)
 
 ![Openheimer](https://media.giphy.com/media/l4JyOCNEsULMlYgWS/giphy.gif)
+
+![Oppenheimer](https://media.giphy.com/media/qdpdeAEbIJhhtqUk7k/giphy.gif)
